@@ -36,7 +36,7 @@ button{
     justify-content: center;
     border-radius: 1rem;
     height: 3.2rem;
-    width: 18rem;
+    width: 24rem;
     font-weight: 900;
     
     
@@ -74,13 +74,15 @@ p{
     color: var(--Brightblue);
     font-weight: 600;
     margin-bottom: 2rem;
+    width: 22rem;
+    height: 4rem;
 }
 
 .precio1{
     display: flex;
     flex-direction: column;
     margin-left: 1rem;
-    margin-right: 2rem;
+    margin-right: 6rem;
     color: var(--Desaturatedblue);
     
 }
@@ -97,4 +99,8 @@ span{
 img{
     width: 100%;
     border-radius: 1rem 1rem 0 0;
+}
+
+.img2{
+    width: 15%;
 }
